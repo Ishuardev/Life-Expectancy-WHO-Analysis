@@ -8,10 +8,9 @@ Some might even argue that the advancement in the healthcare sector plays an imp
 This report will cover the data descriptions and analysis using R language. 
 For each of our research objectives, we performed statistical analysis and drew conclusions in the most appropriate approach, together with explanations and elaborations. 
 
-Infomration on the data collected, the descriptions and metrics used is added to the file in this repository.
+Infomration on the data collected, the descriptions and metrics used is added to the file in this repository. The dataset used will also be uploaded as well
 
-References
-
+References:
 Alemu, A. M. (2017, May 29). To what extent does access to improved sanitation explain the observed differences in infant mortality in Africa? African journal of primary health care & family medicine. Retrieved April 17, 2023, from
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5458576/
 
